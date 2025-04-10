@@ -3,3 +3,4 @@ annual.txt
 bcinfo.sqlite
 temp.html
 __pycache__
+.DS_Store
